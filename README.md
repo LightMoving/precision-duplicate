@@ -2,23 +2,53 @@
 
 Duplicate WordPress pages and posts exactly as they are — with full Elementor compatibility.
 
+> Because duplication should be exact — not approximate.
+
+---
+
 ## ✨ Features
 
-- One-click duplication of posts, pages, and custom post types
-- Preserves all metadata exactly (no parsing or corruption)
-- Elementor-safe duplication (prevents broken layouts)
-- Automatically avoids stale Elementor CSS
-- Works with Gutenberg, Classic Editor, and Elementor
-- Lightweight and fast
+* One-click duplication of posts, pages, and custom post types
+* Preserves all metadata exactly (no parsing or corruption)
+* Elementor-safe duplication (prevents broken layouts)
+* Automatically avoids stale Elementor CSS
+* Works with Gutenberg, Classic Editor, and Elementor
+* Lightweight and fast
+
+---
 
 ## 🧠 Why this plugin exists
 
 Most duplicate plugins break Elementor pages because they re-save or modify structured meta data.
 
 Precision Duplicate solves this by:
-- Copying meta data exactly as stored
-- Avoiding mutation of Elementor JSON
-- Letting Elementor regenerate styles cleanly
+
+* Copying meta data exactly as stored
+* Avoiding mutation of Elementor JSON
+* Letting Elementor regenerate styles cleanly
+
+---
+
+## 🚀 Bulk Library Page Creation
+
+Includes a built-in tool for creating multiple draft pages at once:
+
+* Go to **Tools → Precision Duplicate**
+* Generate large batches of pages (perfect for structured libraries like Day Text ranges)
+* Designed to work safely with Elementor and metadata-heavy pages
+
+---
+
+## 🔄 GitHub Auto Updates
+
+This plugin supports version checking and updates via GitHub:
+
+* Connects to the repository:
+  https://github.com/LightMoving/precision-duplicate/
+* Notifies you when new versions are available
+* Keeps your installation up to date easily
+
+---
 
 ## 🔧 Installation
 
@@ -27,15 +57,22 @@ Precision Duplicate solves this by:
 3. Go to Posts or Pages
 4. Click **Duplicate**
 
+---
+
 ## ⚠️ Notes
 
-- Designed to preserve complex page builders and meta-driven layouts
-- Uses direct database operations intentionally to avoid data corruption
+* Designed to preserve complex page builders and meta-driven layouts
+* Uses direct database operations intentionally to avoid data corruption
+* Plugin Checker warnings related to database queries are expected and intentional
+
+---
+
+## 🔗 Repository
+
+https://github.com/LightMoving/precision-duplicate/
+
+---
 
 ## 📄 License
 
 GPL v2 or later
-== Upgrade Notice ==
-
-= 1.8 =
-Initial release.
