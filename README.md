@@ -1,52 +1,40 @@
-=== Precision Duplicate ===
-Contributors: Debo Grim
-Tags: duplicate page, elementor, duplicate post, page builder
-Requires at least: 5.0
-Tested up to: 6.9
-Requires PHP: 7.4
-Stable tag: 1.8
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# Precision Duplicate
 
-Duplicate WordPress pages and posts exactly as they are, preserving Elementor layouts without parsing or breaking design.
+Duplicate WordPress pages and posts exactly as they are — with full Elementor compatibility.
 
-== Description ==
+## ✨ Features
 
-Precision Duplicate allows you to duplicate posts, pages, and custom post types as drafts with complete structural accuracy.
+- One-click duplication of posts, pages, and custom post types
+- Preserves all metadata exactly (no parsing or corruption)
+- Elementor-safe duplication (prevents broken layouts)
+- Automatically avoids stale Elementor CSS
+- Works with Gutenberg, Classic Editor, and Elementor
+- Lightweight and fast
 
-Unlike typical duplication plugins, this plugin preserves all metadata exactly as stored, preventing issues with Elementor and other page builders.
+## 🧠 Why this plugin exists
 
-== Features ==
+Most duplicate plugins break Elementor pages because they re-save or modify structured meta data.
 
-* One-click duplication
-* Elementor-safe duplication
-* Preserves all metadata
-* Prevents broken layouts
-* Lightweight and fast
+Precision Duplicate solves this by:
+- Copying meta data exactly as stored
+- Avoiding mutation of Elementor JSON
+- Letting Elementor regenerate styles cleanly
 
-== Installation ==
+## 🔧 Installation
 
-1. Upload to `/wp-content/plugins/`
+1. Upload the plugin to `/wp-content/plugins/`
 2. Activate the plugin
 3. Go to Posts or Pages
-4. Click "Duplicate"
+4. Click **Duplicate**
 
-== Frequently Asked Questions ==
+## ⚠️ Notes
 
-= Does this work with Elementor? =
-Yes. This plugin is optimized to prevent Elementor layout issues.
+- Designed to preserve complex page builders and meta-driven layouts
+- Uses direct database operations intentionally to avoid data corruption
 
-= Does it work with Gutenberg? =
-Yes, it works with all editors.
+## 📄 License
 
-== Changelog ==
-
-= 1.8 =
-
-* Initial release
-* Elementor-safe duplication
-* Prevents metadata corruption
-
+GPL v2 or later
 == Upgrade Notice ==
 
 = 1.8 =
