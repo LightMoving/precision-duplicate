@@ -4,6 +4,7 @@ Duplicate WordPress pages and posts exactly as they are — with full Elementor 
 
 > Because duplication should be exact — not approximate.
 
+![Precision Duplicate](assets/banner-1544x500.png)
 ---
 
 ## ✨ Features
