@@ -1,6 +1,6 @@
 ![Precision Duplicate](assets/banner-1544x500.png)
 # Precision Duplicate
-![Version](https://img.shields.io/badge/version-1.9-blue)
+![Version](https://img.shields.io/badge/version-1.9.3-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
