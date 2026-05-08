@@ -13,6 +13,7 @@ Duplicate WordPress pages and posts exactly as they are — with full Elementor 
 ## ✨ Features
 
 * One-click duplication of posts, pages, and custom post types
+* Bulk duplicate pages
 * Preserves all metadata exactly (no parsing or corruption)
 * Elementor-safe duplication (prevents broken layouts)
 * Automatically avoids stale Elementor CSS
