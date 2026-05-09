@@ -4,7 +4,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
-Duplicate WordPress pages and posts exactly as they are — with full Elementor compatibility.
+Precision Duplicate helps generate structured WordPress page systems using intelligent duplication workflows, range generation, title patterns, slug patterns, and optional sequential tagging.
 
 > Because duplication should be exact — not approximate.
 
@@ -81,3 +81,4 @@ https://github.com/LightMoving/precision-duplicate/
 ## 📄 License
 
 GPL v2 or later
+
