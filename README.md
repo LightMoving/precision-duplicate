@@ -2,7 +2,7 @@
 
 # Precision Duplicate
 
-![Version](https://img.shields.io/badge/version-2.2.3-blue)
+![Version](https://img.shields.io/badge/version-2.2.6-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -97,6 +97,15 @@ This plugin supports version checking and updates via GitHub:
 
 ## 📋 Changelog
 
+### 2.2.6
+* Added guided card-based workflow layout
+* Added collapsible Advanced Options section
+* Improved Memberium + Protection workflow organization
+* Added Smart Sequential Tag Helper for Keap/Memberium tag mapping
+* Improved tooltip spacing and readability
+* Improved Preview + Generate section styling
+* Preserved existing generation engine behavior
+  
 ### 2.2.3
 
 * Added AJAX-powered source page search
