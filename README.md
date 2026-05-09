@@ -132,7 +132,4 @@ GPL v2 or later
 
 ---
 
-## 📄 License
-
-GPL v2 or later
 
