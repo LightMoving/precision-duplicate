@@ -6,8 +6,6 @@
 
 Precision Duplicate helps generate structured WordPress page systems using intelligent duplication workflows, range generation, title patterns, slug patterns, and optional sequential tagging.
 
-> Because duplication should be exact — not approximate.
-
 ---
 
 ## ✨ Features
