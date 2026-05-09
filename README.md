@@ -1,44 +1,67 @@
 ![Precision Duplicate](assets/banner-1544x500.png)
+
 # Precision Duplicate
-![Version](https://img.shields.io/badge/version-1.9.3-blue)
+
+![Version](https://img.shields.io/badge/version-2.2.3-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
-Precision Duplicate helps generate structured WordPress page systems using intelligent duplication workflows, range generation, title patterns, slug patterns, and optional sequential tagging.
+Precision Duplicate helps generate structured WordPress page systems using intelligent duplication workflows, range generation, title patterns, slug patterns, AJAX search, and optional sequential tagging.
+
+Designed for Elementor-based layouts, structured libraries, membership portals, educational systems, and metadata-heavy publishing workflows.
 
 ---
 
 ## ✨ Features
 
 * One-click duplication of posts, pages, and custom post types
-* Bulk duplicate pages
-* Preserves all metadata exactly (no parsing or corruption)
+* Intelligent bulk page generation
+* Range-based structured page creation
+* Dynamic title and slug patterns
+* AJAX-powered source page search
+* Optional sequential tag generation
 * Elementor-safe duplication (prevents broken layouts)
-* Automatically avoids stale Elementor CSS
+* Preserves metadata exactly without parsing corruption
 * Works with Gutenberg, Classic Editor, and Elementor
-* Lightweight and fast
+* Lightweight, scalable, and fast
 
 ---
 
 ## 🧠 Why this plugin exists
 
-Most duplicate plugins break Elementor pages because they re-save or modify structured meta data.
+Most duplicate plugins break Elementor pages because they re-save or modify structured metadata.
 
 Precision Duplicate solves this by:
 
-* Copying meta data exactly as stored
+* Copying metadata exactly as stored
 * Avoiding mutation of Elementor JSON
-* Letting Elementor regenerate styles cleanly
+* Letting Elementor regenerate styles safely
+* Supporting structured publishing workflows cleanly
 
 ---
 
-## 🚀 Bulk Library Page Creation
+## 🚀 Structured Library Generation
 
 Includes a built-in tool for creating multiple draft pages at once:
 
 * Go to **Tools → Precision Duplicate**
-* Generate large batches of pages (perfect for structured libraries like Day Text ranges)
-* Designed to work safely with Elementor and metadata-heavy pages
+* Generate large batches of structured pages
+* Create intelligent page ranges using title and slug patterns
+* Optional sequential tag support
+* AJAX-assisted source page selection
+* Designed for Elementor, structured memberships, educational systems, and metadata-heavy workflows
+
+---
+
+## 🔐 Membership & Protected Content Workflows
+
+Precision Duplicate is designed to work well with structured membership systems and protected content environments, including workflows commonly used with:
+
+* Elementor
+* Memberium
+* Keap
+
+This makes the plugin especially useful for lesson libraries, membership portals, protected archives, documentation systems, and sequential content structures.
 
 ---
 
@@ -46,10 +69,10 @@ Includes a built-in tool for creating multiple draft pages at once:
 
 This plugin supports version checking and updates via GitHub:
 
-* Connects to the repository:
+* Repository:
   https://github.com/LightMoving/precision-duplicate/
 * Notifies you when new versions are available
-* Keeps your installation up to date easily
+* Keeps installations updated easily
 
 ---
 
@@ -59,20 +82,53 @@ This plugin supports version checking and updates via GitHub:
 2. Activate the plugin
 3. Go to Posts or Pages
 4. Click **Duplicate**
+5. Use **Tools → Precision Duplicate** for bulk structured generation
 
 ---
 
 ## ⚠️ Notes
 
-* Designed to preserve complex page builders and meta-driven layouts
+* Designed to preserve complex page builders and metadata-driven layouts
 * Uses direct database operations intentionally to avoid data corruption
 * Plugin Checker warnings related to database queries are expected and intentional
+* Structured duplication workflows are intentionally optimized for reliability and metadata preservation
+
+---
+
+## 📋 Changelog
+
+### 2.2.3
+
+* Added AJAX-powered source page search
+* Added sequential tag pattern support
+* Added Memberium tag ID mapping support
+* Improved token validation system
+* Added contextual tooltips and UI guidance
+* Enhanced duplication architecture and scalability
+
+### 2.1.5
+
+* Added contextual tooltips
+* Improved validation messaging
+* Improved workflow guidance
+
+### 2.1.0
+
+* Added dynamic token replacement engine
+* Added reusable token architecture
+* Added structured range variables
 
 ---
 
 ## 🔗 Repository
 
 https://github.com/LightMoving/precision-duplicate/
+
+---
+
+## 📄 License
+
+GPL v2 or later
 
 ---
 
