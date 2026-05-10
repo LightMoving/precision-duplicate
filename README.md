@@ -2,7 +2,7 @@
 
 # Precision Duplicate
 
-![Version](https://img.shields.io/badge/version-2.2.6-blue)
+![Version](https://img.shields.io/badge/version-2.2.8-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -97,7 +97,19 @@ This plugin supports version checking and updates via GitHub:
 
 ## 📋 Changelog
 
+### 2.2.8
+
+* Added Preview Generation dry-run system
+* Added intelligent generation verification
+* Added contextual variable workflow
+* Unified onboarding and How It Works flow
+* Improved Advanced Options workflow
+* Improved Memberium + KEAP generation support
+* Refined accordion UI and guided workflow structure
+* Improved overall UX and visual hierarchy
+  
 ### 2.2.6
+
 * Added guided card-based workflow layout
 * Added collapsible Advanced Options section
 * Improved Memberium + Protection workflow organization
