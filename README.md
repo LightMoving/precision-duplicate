@@ -6,16 +6,18 @@
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
-Precision Duplicate helps generate structured WordPress page systems using intelligent duplication workflows, range generation, title patterns, slug patterns, AJAX search, and optional sequential tagging.
+Precision Duplicate helps generate structured WordPress page systems using intelligent generation workflows, range creation, dynamic title and slug patterns, AJAX search, Preview Generation, and optional sequential tagging.
 
-Designed for Elementor-based layouts, structured libraries, membership portals, educational systems, and metadata-heavy publishing workflows.
+Designed for Elementor-based layouts, structured libraries, membership portals, educational systems, protected content environments, and metadata-heavy publishing workflows.
 
 ---
 
 ## ✨ Features
 
 * One-click duplication of posts, pages, and custom post types
-* Intelligent bulk page generation
+* Preview Generation dry-run workflow
+* Intelligent structured page generation
+* Intelligent Memberium + Keap protected content workflows
 * Range-based structured page creation
 * Dynamic title and slug patterns
 * AJAX-powered source page search
