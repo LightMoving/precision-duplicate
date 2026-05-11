@@ -139,12 +139,6 @@ This makes the plugin especially useful for:
 
 ---
 
-# 🌍 Internationalization
-
-Precision Duplicate includes translation-ready internationalization support with an included POT language template for localization workflows.
-
----
-
 # 🛡 Rollback Protection
 
 Recent generation batches can be safely rolled back.
@@ -164,6 +158,12 @@ Export generation history in multiple formats:
 * CSV
 * JSON
 * Markdown
+
+---
+
+# 🌍 Internationalization
+
+Precision Duplicate includes translation-ready internationalization support with an included POT language template for localization workflows.
 
 ---
 
