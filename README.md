@@ -213,6 +213,10 @@ Features:
 * Added plugin standards and compatibility cleanup
 * Improved Elementor-safe duplication workflows
 * Improved structured generation usability
+* Plugin Check cleanup and standards improvements
+
+### Recommended Upgrade
+v2.5.0 is the recommended public release version for all users.
 
 ## 2.2.8
 
