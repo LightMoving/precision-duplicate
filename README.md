@@ -1,18 +1,27 @@
 ![Precision Duplicate](assets/banner-1544x500.png)
 
-# Precision Duplicate
+# Precision Duplicate — Intelligent Page Generation for WordPress
 
-![Version](https://img.shields.io/badge/version-2.2.8-blue)
+![Version](https://img.shields.io/badge/version-2.4.2-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
-Precision Duplicate helps generate structured WordPress page systems using intelligent generation workflows, range creation, dynamic title and slug patterns, AJAX search, Preview Generation, and optional sequential tagging.
+Precision Duplicate transforms bulk page creation into a modern structured workflow system for WordPress.
 
-Designed for Elementor-based layouts, structured libraries, membership portals, educational systems, protected content environments, and metadata-heavy publishing workflows.
+Generate intelligently organized draft pages from a single source template using intelligent generation workflows, sequential range creation, dynamic title and slug patterns, AJAX search, Preview Generation, rollback protection, export tools, and optional sequential tagging.
+
+Designed for:
+- Elementor-based layouts
+- structured lesson libraries
+- membership portals
+- educational systems
+- protected content environments
+- metadata-heavy publishing workflows
+- Memberium + Keap content systems
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 * One-click duplication of posts, pages, and custom post types
 * Preview Generation dry-run workflow
@@ -22,14 +31,17 @@ Designed for Elementor-based layouts, structured libraries, membership portals, 
 * Dynamic title and slug patterns
 * AJAX-powered source page search
 * Optional sequential tag generation
+* Rollback protection for recent draft generations
+* Export generation history as CSV, JSON, or Markdown
+* Responsive SaaS-style Version 2 workflow UI
 * Elementor-safe duplication (prevents broken layouts)
 * Preserves metadata exactly without parsing corruption
 * Works with Gutenberg, Classic Editor, and Elementor
-* Lightweight, scalable, and fast
+* Lightweight, scalable, and optimized for large generation workflows
 
 ---
 
-## 🧠 Why this plugin exists
+# 🧠 Why this plugin exists
 
 Most duplicate plugins break Elementor pages because they re-save or modify structured metadata.
 
@@ -38,68 +50,170 @@ Precision Duplicate solves this by:
 * Copying metadata exactly as stored
 * Avoiding mutation of Elementor JSON
 * Letting Elementor regenerate styles safely
+* Preserving protected content structures
 * Supporting structured publishing workflows cleanly
 
----
-
-## 🚀 Structured Library Generation
-
-Includes a built-in tool for creating multiple draft pages at once:
-
-* Go to **Tools → Precision Duplicate**
-* Generate large batches of structured pages
-* Create intelligent page ranges using title and slug patterns
-* Optional sequential tag support
-* AJAX-assisted source page selection
-* Designed for Elementor, structured memberships, educational systems, and metadata-heavy workflows
+This makes the plugin especially useful for:
+- educational portals
+- lesson systems
+- membership libraries
+- structured sequential content
+- large-scale protected publishing systems
 
 ---
 
-## 🔐 Membership & Protected Content Workflows
+# 🚀 Structured Library Generation
 
-Precision Duplicate is designed to work well with structured membership systems and protected content environments, including workflows commonly used with:
+Precision Duplicate includes a built-in intelligent generation workflow for creating large structured draft systems quickly.
+
+Go to:
+
+**Tools → Precision Duplicate**
+
+Then:
+- Select a source page
+- Configure a generation range
+- Create intelligent title and slug patterns
+- Preview generation results
+- Safely generate structured draft pages
+
+Features include:
+- Preview Generation dry-run support
+- Sequential page generation
+- Dynamic variable workflows
+- Optional sequential tag support
+- AJAX-assisted source page selection
+- Rollback protection for recent generations
+- Responsive workflow panels and generation history
+
+Designed for Elementor, structured memberships, educational systems, protected archives, and metadata-heavy workflows.
+
+---
+
+# 🔄 Dynamic Variables
+
+Use intelligent variables throughout your workflows:
+
+| Variable | Description |
+|---|---|
+| `{n}` | Current sequence number |
+| `{prev}` | Previous number |
+| `{next}` | Next number |
+| `{range_start}` | Starting range number |
+| `{range_end}` | Ending range number |
+
+Variables can be used in:
+- titles
+- slugs
+- tags
+- protected content patterns
+
+---
+
+# 🔐 Membership & Protected Content Workflows
+
+Precision Duplicate is designed to work exceptionally well with structured membership systems and protected content environments, including workflows commonly used with:
 
 * Elementor
 * Memberium
 * Keap
 
-This makes the plugin especially useful for lesson libraries, membership portals, protected archives, documentation systems, and sequential content structures.
+This makes the plugin especially useful for:
+- lesson libraries
+- membership portals
+- protected archives
+- sequential training systems
+- structured educational systems
+- chapter-based publishing architectures
 
 ---
 
-## 🔄 GitHub Auto Updates
+# 🛡 Rollback Protection
+
+Recent generation batches can be safely rolled back.
+
+Rollback:
+- only removes draft pages
+- never deletes published pages
+- protects modified content
+- preserves published workflows safely
+
+---
+
+# 📤 Export Tools
+
+Export generation history in multiple formats:
+
+* CSV
+* JSON
+* Markdown
+
+---
+
+# 📱 Responsive Version 2 Interface
+
+Version 2 introduces:
+- intelligent two-column workflow architecture
+- contextual guidance panels
+- responsive desktop/tablet/mobile layouts
+- cleaner workflow hierarchy
+- improved generation usability
+- modern SaaS-style WordPress admin experience
+
+---
+
+# 🔄 GitHub Auto Updates
 
 This plugin supports version checking and updates via GitHub:
 
-* Repository:
-  https://github.com/LightMoving/precision-duplicate/
-* Notifies you when new versions are available
-* Keeps installations updated easily
+Repository:
+https://github.com/LightMoving/precision-duplicate/
+
+Features:
+- automatic version notifications
+- streamlined update workflow
+- simplified release management
 
 ---
 
-## 🔧 Installation
+# 🔧 Installation
 
 1. Upload the plugin to `/wp-content/plugins/`
 2. Activate the plugin
 3. Go to Posts or Pages
 4. Click **Duplicate**
-5. Use **Tools → Precision Duplicate** for bulk structured generation
+5. Use **Tools → Precision Duplicate** for intelligent structured generation workflows
 
 ---
 
-## ⚠️ Notes
+# ⚠️ Notes
 
-* Designed to preserve complex page builders and metadata-driven layouts
-* Uses direct database operations intentionally to avoid data corruption
+* Designed specifically to preserve complex page builders and metadata-driven layouts
+* Uses direct database operations intentionally to avoid metadata corruption
 * Plugin Checker warnings related to database queries are expected and intentional
-* Structured duplication workflows are intentionally optimized for reliability and metadata preservation
+* Structured duplication workflows are optimized for reliability and protected content preservation
+* Elementor structures are preserved without mutation or parsing damage
 
 ---
 
-## 📋 Changelog
+# 📋 Changelog
 
-### 2.2.8
+## 2.4.2
+
+* Complete Version 2 UI redesign
+* Added intelligent two-column workflow architecture
+* Added rollback generation history system
+* Added export tools
+* Added responsive SaaS-style admin workflow interface
+* Improved mobile responsiveness and field scaling
+* Added Recent Generations workflow improvements
+* Added structured workflow guidance panels
+* Added rollback safety refinements
+* Added spacing and visual hierarchy improvements
+* Added plugin standards cleanup
+* Improved generation usability and workflow clarity
+
+## 2.2.8
 
 * Added Preview Generation dry-run system
 * Added intelligent generation verification
@@ -109,8 +223,8 @@ This plugin supports version checking and updates via GitHub:
 * Improved Memberium + KEAP generation support
 * Refined accordion UI and guided workflow structure
 * Improved overall UX and visual hierarchy
-  
-### 2.2.6
+
+## 2.2.6
 
 * Added guided card-based workflow layout
 * Added collapsible Advanced Options section
@@ -119,8 +233,8 @@ This plugin supports version checking and updates via GitHub:
 * Improved tooltip spacing and readability
 * Improved Preview + Generate section styling
 * Preserved existing generation engine behavior
-  
-### 2.2.3
+
+## 2.2.3
 
 * Added AJAX-powered source page search
 * Added sequential tag pattern support
@@ -129,30 +243,14 @@ This plugin supports version checking and updates via GitHub:
 * Added contextual tooltips and UI guidance
 * Enhanced duplication architecture and scalability
 
-### 2.1.5
-
-* Added contextual tooltips
-* Improved validation messaging
-* Improved workflow guidance
-
-### 2.1.0
-
-* Added dynamic token replacement engine
-* Added reusable token architecture
-* Added structured range variables
-
 ---
 
-## 🔗 Repository
+# 🔗 Repository
 
 https://github.com/LightMoving/precision-duplicate/
 
 ---
 
-## 📄 License
+# 📄 License
 
 GPL v2 or later
-
----
-
-
