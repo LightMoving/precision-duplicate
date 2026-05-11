@@ -2,7 +2,7 @@
 
 # Precision Duplicate — Intelligent Page Generation for WordPress
 
-![Version](https://img.shields.io/badge/version-2.5.0-blue)
+![Version](https://img.shields.io/badge/version-2.5.1-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -215,6 +215,23 @@ Features:
 
 # 📋 Changelog
 
+## 2.5.1
+
+* Added guided publishing workflow improvements
+* Added draft and publish generation modes
+* Added dynamic preview generation output states
+* Added sticky preview modal action footer
+* Improved Preview + Generate workflow clarity
+* Improved responsive modal and generation interactions
+* Improved rollback workflow styling and spacing
+* Improved export workflow architecture
+* Improved mobile and responsive UI behavior
+* Refined generation confirmation workflows
+* Refined publishing workflow UX
+* Added translation-ready POT support
+* Improved WordPress.org compatibility and Plugin Check compliance
+* Improved overall visual hierarchy and workflow consistency
+
 ## 2.5.0
 
 * Complete Version 2 workflow redesign
@@ -231,9 +248,6 @@ Features:
 * Improved Elementor-safe duplication workflows
 * Improved structured generation usability
 * Plugin Check cleanup and standards improvements
-
-### Recommended Upgrade
-v2.5.0 is the recommended public release version for all users.
 
 ## 2.2.8
 
