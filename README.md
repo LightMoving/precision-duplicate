@@ -41,7 +41,7 @@ Designed for:
 
 ---
 
-## 🧠 Why this plugin exists
+## 🧠 Why This Plugin Exists
 
 Modern WordPress publishing workflows often require generating large, structured content systems efficiently and safely.
 
