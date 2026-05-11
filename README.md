@@ -38,6 +38,7 @@ Designed for:
 * Preserves metadata exactly without parsing corruption
 * Works with Gutenberg, Classic Editor, and Elementor
 * Lightweight, scalable, and optimized for large generation workflows
+* Translation-ready with included POT language template
 
 ---
 
@@ -135,6 +136,12 @@ This makes the plugin especially useful for:
 - sequential training systems
 - structured educational systems
 - chapter-based publishing architectures
+
+---
+
+# 🌍 Internationalization
+
+Precision Duplicate includes translation-ready internationalization support with an included POT language template for localization workflows.
 
 ---
 
