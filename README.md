@@ -1,32 +1,30 @@
 ![Precision Duplicate](assets/banner-1544x500.png)
 
-# Precision Duplicate — Intelligent Page Generation for WordPress
+# IPG — Intelligent Page Generator for WordPress
 
-![Version](https://img.shields.io/badge/version-2.5.1-blue)
+![Version](https://img.shields.io/badge/version-2.5.11-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
-Precision Duplicate transforms bulk page creation into a modern structured workflow system for WordPress.
-
-Generate intelligently organized draft pages from a single source template using intelligent generation workflows, sequential range creation, dynamic title and slug patterns, AJAX search, Preview Generation, rollback protection, export tools, and optional sequential tagging.
+IPG transforms structured page generation into a modern intelligent workflow system for WordPress.
 
 Designed for:
-- Elementor-based layouts
+- Elementor page systems
 - structured lesson libraries
 - membership portals
-- educational systems
+- educational platforms
 - protected content environments
 - metadata-heavy publishing workflows
-- Memberium + Keap content systems
+- Memberium + Keap automation systems
 
 ---
 
 # ✨ Features
 
-* One-click duplication of posts, pages, and custom post types
+* One-click intelligent page duplication
 * Preview Generation dry-run workflow
-* Intelligent structured page generation
-* Intelligent Memberium + Keap protected content workflows
+* Intelligent bulk page generation workflows
+* Memberium + Keap protected content workflows
 * Range-based structured page creation
 * Dynamic title and slug patterns
 * AJAX-powered source page search
@@ -46,7 +44,7 @@ Designed for:
 
 Modern WordPress publishing workflows often require generating large, structured content systems efficiently and safely.
 
-Precision Duplicate was created to support intelligent structured generation workflows for:
+IPG was created to support intelligent, structured generation workflows for:
 - lesson libraries
 - membership portals
 - educational systems
@@ -62,7 +60,7 @@ The plugin is designed to:
 * Preserve protected content structures
 * Support structured publishing workflows cleanly
 
-Unlike traditional duplicate plugins, Precision Duplicate is built around intelligent workflow generation rather than simple page cloning.
+Unlike traditional duplicate plugins, IPG is built around intelligent workflow generation rather than simple page cloning.
 
 This makes the plugin especially useful for:
 - educational portals
@@ -73,13 +71,29 @@ This makes the plugin especially useful for:
 
 ---
 
+# 🧩 Builder Membership Compatibility
+IPG is designed to work seamlessly with modern WordPress publishing systems, including:
+
+* Elementor
+* Gutenberg
+* Classic Editor
+* Memberium
+* Keap
+* metadata-heavy membership environments
+* structured educational systems
+* protected content libraries
+
+The plugin preserves critical metadata and page-builder structures safely during intelligent generation workflows.
+
+---
+
 # 🚀 Structured Library Generation
 
-Precision Duplicate includes a built-in intelligent generation workflow for creating large structured draft systems quickly.
+IPG includes a built-in intelligent generation workflow for creating large structured draft systems quickly.
 
 Go to:
 
-**Tools → Precision Duplicate**
+**Tools → IPG — Intelligent Page Generator**
 
 Then:
 - Select a source page
@@ -163,7 +177,7 @@ Export generation history in multiple formats:
 
 # 🌍 Internationalization
 
-Precision Duplicate includes translation-ready internationalization support with an included POT language template for localization workflows.
+IPG-Intelligent Page Generator includes translation-ready internationalization support with an included POT language template for localization workflows.
 
 ---
 
@@ -184,7 +198,7 @@ Version 2 introduces:
 This plugin supports version checking and updates via GitHub:
 
 Repository:
-https://github.com/LightMoving/precision-duplicate/
+https://github.com/LightMoving/ipg-intelligent-page-generator
 
 Features:
 - automatic version notifications
@@ -199,7 +213,7 @@ Features:
 2. Activate the plugin
 3. Go to Posts or Pages
 4. Click **Duplicate**
-5. Use **Tools → Precision Duplicate** for intelligent structured generation workflows
+5. Use **Tools → IPG-Intelligent Page Generator** for intelligent structured generation workflows
 
 ---
 
@@ -214,6 +228,16 @@ Features:
 ---
 
 # 📋 Changelog
+
+## 2.5.11
+
+* Rebranded plugin to IPG — Intelligent Page Generator
+* Improved WordPress.org review compatibility
+* Improved intelligent generation workflow positioning
+* Improved duplicate title and slug consistency
+* Added Copy handling for bulk generation workflows
+* Improved export naming consistency
+* Improved admin workflow clarity and action labeling
 
 ## 2.5.1
 
