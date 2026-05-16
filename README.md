@@ -1,4 +1,4 @@
-![Precision Duplicate](assets/banner-1544x500.png)
+![IPG Intelligent Page Generator](assets/banner-1544x500.png)
 
 # IPG — Intelligent Page Generator for WordPress
 
