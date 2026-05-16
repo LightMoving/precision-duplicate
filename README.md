@@ -229,7 +229,7 @@ Features:
 
 # 📋 Changelog
 
-## 2.5.11
+## 2.5.13
 
 * Rebranded plugin to IPG — Intelligent Page Generator
 * Improved WordPress.org review compatibility
