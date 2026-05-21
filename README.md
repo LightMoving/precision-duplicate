@@ -229,6 +229,15 @@ Features:
 
 # 📋 Changelog
 
+## 2.5.20 
+* Improved Preview + Generate interface consistency
+* Fixed button icon persistence during packaged ZIP builds
+* Refined Generate Draft Pages button styling and layout
+* Improved admin UI spacing and visual alignment
+* Enhanced packaging/build cleanup process
+* Updated plugin metadata and release documentation
+* Minor interface polish and workflow refinements
+
 ## 2.5.18
 
 * Finalized admin UI button balance for the Preview + Generate workflow
