@@ -2,7 +2,7 @@
 
 # IPG — Intelligent Page Generator for WordPress
 
-![Version](https://img.shields.io/badge/version-2.5.13-blue)
+![Version](https://img.shields.io/badge/version-2.5.18-blue)
 ![WordPress](https://img.shields.io/badge/WordPress-7.0%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL%20v2-green)
 
@@ -228,6 +228,33 @@ Features:
 ---
 
 # 📋 Changelog
+
+## 2.5.18
+
+* Finalized admin UI button balance for the Preview + Generate workflow
+* Reduced excessive spacing above Preview + Generate actions
+* Refined internal button padding around text and icons
+* Tightened Sequential Tag Helper button horizontal padding
+* Preserved improved helper text spacing below the Sequential Tag Helper controls
+
+## 2.5.16
+
+* Polished admin button sizing and spacing for the refined WordPress 7.0 UI refresh
+* Reduced Sequential Tag Helper button shadow and improved alignment
+* Added more breathing room to the Preview + Generate section
+
+## 2.5.15
+
+* Refined admin UI colors for WordPress 7.0 compatibility
+* Added softer lower-saturation blue palette for primary actions
+* Updated internal asset versioning so refreshed admin CSS loads correctly
+
+## 2.5.14
+
+* Tested compatibility with WordPress 7.0
+* Improved plugin compatibility and admin stability refinements
+* Updated WordPress.org release support and metadata
+
 
 ## 2.5.13
 
